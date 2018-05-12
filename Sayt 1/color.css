@@ -1,0 +1,50 @@
+
+body{
+    background-color: yellow;
+
+}
+
+input{
+
+}
+
+
+div {
+    margin-bottom: 15px;
+    padding: 10px 25px 10px 25px;
+    background-color: #dff0d8;
+}
+
+.left-column {
+    float: left;
+    width: 50%;
+    min-height: 100px;
+    background-color: #9400D3;
+    border-radius:20px;
+    color: #ADFF2F;
+    text-align: center;
+}
+
+.right-column {
+    float: right;
+    width: 25%;
+    min-height: 100px;
+    background-color:#333333;
+    color: #ffffff;
+    border-radius:20px;
+}
+
+.footer {
+    clear: both;
+    border-radius:20px;
+    text-align: center;
+}
+
+.header{
+
+	text-align: center;
+}
+
+form input:focus {
+    border-color: #0088cc;
+}
